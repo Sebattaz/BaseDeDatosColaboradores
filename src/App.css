@@ -1,0 +1,13 @@
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+}
+
+.contenido{
+    width: 1000px;
+    display: flex;
+
+}
